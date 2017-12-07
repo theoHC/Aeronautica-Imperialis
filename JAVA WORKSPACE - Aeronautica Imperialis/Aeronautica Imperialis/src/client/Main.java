@@ -36,7 +36,6 @@ public class Main {
 	static String StarAllianceBattleship;
 	
 	public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException, InterruptedException{
-		//StarAllianceBattleship = new String(Files.readAllBytes(Paths.get("assets/StarAllianceBattleship.txt")));
 		
 		scan = new Scanner(System.in);
 		rand = new Random();
