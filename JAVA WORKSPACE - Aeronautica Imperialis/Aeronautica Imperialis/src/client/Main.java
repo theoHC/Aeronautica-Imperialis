@@ -18,7 +18,7 @@ public class Main {
 
 	static int elapsedTime = 0;
 	static boolean playing = true;
-	static String gameName = "Empire Aerial";
+	static String gameName = "Aeronautica Imperialis";
 	static boolean sound = false;
 	
 	static ArrayList<BasicObject> All = new ArrayList<BasicObject>();
