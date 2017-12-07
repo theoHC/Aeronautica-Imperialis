@@ -1,0 +1,7 @@
+Documentation:
+
+AIRS sources:
+https://webdocs.cs.ualberta.ca/~cdavid/pdf/ecgg15_chapter-rts_ai.pdf
+http://www.diva-portal.org/smash/get/diva2:348419/FULLTEXT01.pdf
+
+Oh, I., Cho, H., & Kim, K. (2017). Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis. Expert Systems With Applications, 71192-205. doi:10.1016/j.eswa.2016.11.026
